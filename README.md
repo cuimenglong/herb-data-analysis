@@ -1,3 +1,5 @@
 # herb-data-analysis
 **本项目提供摘录自《本草纲目》的草药、治疗、用法的数据集和一个基于嵌入降维方法的中草药治疗功能的可视化方案**
+预览成果
+https://cuimenglong.github.io/herb-data-analysis/
 
