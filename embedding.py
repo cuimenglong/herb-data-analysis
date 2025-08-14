@@ -1,4 +1,4 @@
-#example
+#embedding process
 
 from sentence_transformers import SentenceTransformer
 import os 
@@ -7,7 +7,7 @@ import json
 import torch
 
 #1.加载数据
-json_path = "./json"
+json_path = "*"   #please enter your herb_dataset path
 file_names = os.listdir(json_path)
 result_dict = {}
 
