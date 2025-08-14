@@ -205,8 +205,8 @@ def main(embedding_path, dataset_path):
     # fig.show(renderer="browser")
 
 if __name__ == "__main__":
-    embedding_file = "entity_embeddings.json"
-    dataset_path = "herb_dataset"
+    embedding_file = "entity_embeddings.json" #change to your entity_embedddings.json path
+    dataset_path = "herb_dataset" #change to your herb_dataset path
     
     try:
         main(embedding_file, dataset_path)
