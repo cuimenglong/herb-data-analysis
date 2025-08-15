@@ -24,6 +24,5 @@
 - *visualization.py:* 读取中草药嵌入向量json数据，调用sklearn的t-SNE库对数据降到2维[shape=(n,2)]，再使用seaborn库生成等高线图，最后用plotly库生成可视化结果,输出html格式的图表界面<br>
 
 预览输出结果(国内访问略慢)<br>
----->https://cuimenglong.github.io/herb-data-analysis/  
-
+---->https://herb-data-visualization.edgeone.app/
 
